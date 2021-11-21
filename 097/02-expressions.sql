@@ -1,0 +1,1 @@
+SELECT lidesired, lipurchase, lidesired - lipurchase AS "Remaining Disired" FROM listitems;

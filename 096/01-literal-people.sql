@@ -1,0 +1,1 @@
+SELECT pfirstname, 'lives in', pcity FROM people;

@@ -1,0 +1,1 @@
+SELECT 4/2+4 FROM people;
