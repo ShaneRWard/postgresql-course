@@ -1,0 +1,1 @@
+SELECT ppoints AS "one", CAST(ppoints AS NUMERIC) FROM people;

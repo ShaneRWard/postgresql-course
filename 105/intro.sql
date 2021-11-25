@@ -1,0 +1,1 @@
+-- JSON can be stored in SQL databases
