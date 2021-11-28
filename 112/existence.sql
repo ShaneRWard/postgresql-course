@@ -1,0 +1,1 @@
+SELECT (CAST('{"NAME": "Bob", "favoriteFoods": ["Banana", "Candy"]}' AS JSONB) -> 'favoriteFoods') ? 'Banana';
