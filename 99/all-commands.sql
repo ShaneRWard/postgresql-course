@@ -61,14 +61,14 @@ INSERT INTO people (pfirstname, plastname, pstate, pcity, pdob, pjoined, plastvi
 ('Rick', 'Sanchez', 'FL', 'Miami', '1955-03-24 14:40:10', '2018-08-12 14:40:10', '2021-11-19 14:40:10', 4440, '{"Desserts":["frozen yogurt"], "Destinations":["Rio de Janeiro"]}'),
 ('Don', 'Juan', 'CA', 'San Diego', '1923-08-26 14:40:10', '2019-07-15 14:40:10', '2021-11-12 14:40:10', 2150, '{"Desserts":["sugar cookies"], "Destinations":["Cancun"]}'),
 ('Donald', 'Sutherland', 'MN', 'Newark', '1945-12-05 14:40:10', '2021-04-01 14:40:10', '2021-11-21 14:40:10', 570, '{"Desserts":["red velvet cake"], "Destinations":["Tiajuana"]}'),
-('Sarah', 'Daltry', 'NV', 'Las Vegas', '1990-04-28 14:40:10', '2019-09-11 14:40:10', '2021-11-22 14:40:10', 1910, '{"Desserts":["cherry cobler"], "Destinations":["Bali"]}'),
+('Sarah', 'Daltry', 'NV', 'Las Vegas', '2005-04-28 14:40:10', '2019-09-11 14:40:10', '2021-11-22 14:40:10', 1910, '{"Desserts":["cherry cobler"], "Destinations":["Bali"]}'),
 ('Sara', 'Rogers', 'UT', 'Salt Lake City', '1981-07-05 14:40:10', '2020-07-11 14:40:10', '2021-11-21 14:40:10', 2030, '{"Desserts":["apple crumble"], "Destinations":["Hawaii"]}'),
 ('Tara', 'Davidson', 'WA', 'Seatle', '1981-08-07 14:40:10', '2020-08-18 14:40:10', '2021-11-22 14:40:10', 1870, '{"Desserts":["cinnamon roll"], "Destinations":["Hawaii"]}'),
 ('Tiffany', 'Fulton', 'NV', 'Folsom', '1985-04-10 14:40:10', '2019-07-04 14:40:10', '2021-11-13 14:40:10', 1640, '{"Desserts":["milkshake"], "Destinations":["Paris"]}'),
 ('Lacy', 'Alexandre', 'ND', 'Bismark', '1988-09-05 14:40:10', '2020-08-15 14:40:10', '2021-11-27 14:40:10', 100, '{"Desserts":["frozen yogurt"], "Destinations":["Sidney"]}'),
 ('Lauren', 'Martinez', 'MO', 'Kansas City', '1982-04-02 14:40:10', '2018-04-26 14:40:10', '2021-10-19 14:40:10', 570, '{"Desserts":["icecream"], "Destinations":["Japan"]}'),
 ('Mick', 'Grayson', 'IL', 'Chicago', '1981-10-10 14:40:10', '2020-07-05 14:40:10', '2021-11-2 14:40:10', 220, '{"Desserts":["strawberry cheesecake"], "Destinations":["Greece"]}'),
-('Austin', 'Auburry', 'VI', 'Richmond', '1986-06-14 14:40:10', '2020-07-06 14:40:10', '2021-11-01 14:40:10', 4030, '{"Desserts":["carrot cake"], "Destinations":["Paris"]}'),
+('Austin', 'Auburry', 'VI', 'Richmond', '2001-06-14 14:40:10', '2020-07-06 14:40:10', '2021-11-01 14:40:10', 4030, '{"Desserts":["carrot cake"], "Destinations":["Paris"]}'),
 ('Steve', 'Novella', 'CT', 'Sandy Hook', '1959-5-26 14:40:10', '2019-04-03 14:40:10', '2021-11-07 14:40:10', 5000, '{"Desserts":["pecan pie"], "Destinations":["Florida"]}')
 ;
 
