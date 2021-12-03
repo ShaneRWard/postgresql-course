@@ -69,7 +69,7 @@ INSERT INTO people (pfirstname, plastname, pstate, pcity, pdob, pjoined, plastvi
 ('Lauren', 'Martinez', 'MO', 'Kansas City', '1982-04-02 14:40:10', '2018-04-26 14:40:10', '2021-10-19 14:40:10', 570, '{"Desserts":["icecream"], "Destinations":["Japan"]}'),
 ('Mick', 'Grayson', 'IL', 'Chicago', '1981-10-10 14:40:10', '2020-07-05 14:40:10', '2021-11-2 14:40:10', 220, '{"Desserts":["strawberry cheesecake"], "Destinations":["Greece"]}'),
 ('Austin', 'Auburry', 'VI', 'Richmond', '2001-06-14 14:40:10', '2020-07-06 14:40:10', '2021-11-01 14:40:10', 4030, '{"Desserts":["carrot cake"], "Destinations":["Paris"]}'),
-('Steve', 'Novella', 'CT', 'Sandy Hook', '1959-5-26 14:40:10', '2019-04-03 14:40:10', '2021-11-07 14:40:10', 5000, '{"Desserts":["pecan pie"], "Destinations":["Florida"]}')
+('Steve', 'Novella', 'CT', 'Newtown', '1959-5-26 14:40:10', '2019-04-03 14:40:10', '2021-11-07 14:40:10', 5000, '{"Desserts":["pecan pie"], "Destinations":["Florida"]}')
 ;
 
 -- 16

@@ -1,7 +1,7 @@
 -- use JOIN to
     -- return the first name and department of all employees in the 'Sales' department.
  
-SELECT ename AS "employee name", 
+SELECT ename AS "employee name",
     dept AS "department name"
     FROM employees
     JOIN department USING(eid)
